@@ -6,7 +6,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
- 
+  experimental: {
+    disableV0Branding: true,
+  },
 }
 
 export default nextConfig
