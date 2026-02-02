@@ -399,6 +399,418 @@ const blogPosts = {
       <p>Financial freedom is achievable with discipline and smart choices. Start implementing these tips today, and watch your savings grow. Remember, the best time to start saving was yesterday. The second-best time is today.</p>
     `,
   },
+  7: {
+    title: "Building Your Emergency Fund: A Step-by-Step Guide",
+    author: "Financial Advisor",
+    date: "January 8, 2024",
+    readTime: "7 min read",
+    category: "Savings",
+    image: "/emergency-fund.jpg",
+    content: `
+      <h2>Why an Emergency Fund is Essential</h2>
+      <p>An emergency fund is money set aside specifically for unexpected expenses. Without it, you might resort to high-interest debt when emergencies occur, derailing your financial plans.</p>
+      
+      <h2>Common Emergencies That Drain Your Finances</h2>
+      <ul>
+        <li>Job loss or income reduction</li>
+        <li>Medical emergencies requiring hospitalization</li>
+        <li>Car or home repairs</li>
+        <li>Family emergencies requiring travel</li>
+        <li>Unexpected utility expenses</li>
+      </ul>
+      
+      <h2>How Much Should You Save?</h2>
+      <p>Financial experts recommend maintaining 3-6 months of living expenses in your emergency fund.</p>
+      
+      <h3>Calculation Method:</h3>
+      <ul>
+        <li>Calculate your monthly living expenses (rent, food, utilities, insurance)</li>
+        <li>Multiply by 3-6 months</li>
+        <li>For a family with ₹50,000 monthly expenses: ₹1.5-3 lakhs</li>
+      </ul>
+      
+      <h2>Step-by-Step Guide to Build an Emergency Fund</h2>
+      
+      <h3>Step 1: Set a Target Amount</h3>
+      <p>Calculate 3-6 months of your living expenses. Be realistic based on your lifestyle and dependents.</p>
+      
+      <h3>Step 2: Open a Separate Savings Account</h3>
+      <p>Keep your emergency fund separate from your regular checking account. A high-interest savings account is ideal to earn returns while keeping money accessible.</p>
+      
+      <h3>Step 3: Automate Your Contributions</h3>
+      <p>Set up automatic transfers from your salary to your emergency fund. Even ₹5,000-10,000 per month can quickly build a substantial fund.</p>
+      
+      <h3>Step 4: Track Your Progress</h3>
+      <p>Monitor your emergency fund growth monthly. Celebrate milestones to stay motivated.</p>
+      
+      <h3>Step 5: Protect Your Fund</h3>
+      <p>Don't dip into this fund for non-emergencies. Be disciplined and reserve it only for genuine emergencies.</p>
+      
+      <h2>Timeline to Build Your Emergency Fund</h2>
+      <ul>
+        <li><strong>Months 1-3:</strong> Build initial buffer (₹25,000-50,000)</li>
+        <li><strong>Months 4-9:</strong> Reach 1 month's expenses</li>
+        <li><strong>Months 10-18:</strong> Build to 3 months' expenses</li>
+        <li><strong>Months 19+:</strong> Work towards 6 months' expenses</li>
+      </ul>
+      
+      <h2>Best Places to Keep Your Emergency Fund</h2>
+      
+      <h3>High-Interest Savings Account</h3>
+      <p>Best option - Offers 4-7% interest, quick access, and FDIC insurance.</p>
+      
+      <h3>Money Market Account</h3>
+      <p>Similar to savings account, offers slightly better interest rates.</p>
+      
+      <h3>Liquid Mutual Funds</h3>
+      <p>Earns better returns (6-8%) but withdrawals take 1-2 days.</p>
+      
+      <h2>What Qualifies as an Emergency?</h2>
+      
+      <p><strong>YES - Use Your Emergency Fund:</strong></p>
+      <ul>
+        <li>Job loss and job-hunting expenses</li>
+        <li>Medical emergencies</li>
+        <li>Critical home/car repairs</li>
+        <li>Essential travel for family emergencies</li>
+      </ul>
+      
+      <p><strong>NO - Don't Use Your Emergency Fund:</strong></p>
+      <ul>
+        <li>Vacation or leisure travel</li>
+        <li>New gadgets or luxury items</li>
+        <li>Home renovations or upgrades</li>
+        <li>Wedding or party expenses</li>
+      </ul>
+      
+      <h2>Replenishing Your Fund After Using It</h2>
+      <p>If you use your emergency fund, prioritize rebuilding it. Resume automatic contributions immediately after the emergency passes.</p>
+    `,
+  },
+  8: {
+    title: "Retirement Planning for Government Employees: Maximize Your Benefits",
+    author: "Pension Expert",
+    date: "January 6, 2024",
+    readTime: "8 min read",
+    category: "Retirement",
+    image: "/retirement-planning.jpg",
+    content: `
+      <h2>Understanding Government Employee Retirement Benefits</h2>
+      <p>Government employees enjoy comprehensive retirement benefits. Understanding these benefits helps you plan better and maximize your post-retirement income.</p>
+      
+      <h2>Types of Retirement Benefits for Government Employees</h2>
+      
+      <h3>1. General Provident Fund (GPF)</h3>
+      <p>Mandatory savings scheme where 10% of basic salary is deducted and invested. Government also contributes a matching amount.</p>
+      
+      <h3>2. National Pension System (NPS)</h3>
+      <p>Newer retirement scheme offering flexibility in investment choices and contribution amounts.</p>
+      
+      <h3>3. Pension Benefits</h3>
+      <p>Monthly pension after retirement, calculated based on pay and service period.</p>
+      
+      <h2>Pension Calculation Under 8th Pay Commission</h2>
+      <p>Pension = (Basic Pay at Retirement + Dearness Allowance) × (Service Years / 30)</p>
+      
+      <h3>Example:</h3>
+      <ul>
+        <li>Basic Pay at Retirement: ₹1,00,000</li>
+        <li>DA at Retirement: ₹25,000</li>
+        <li>Service Period: 30 years</li>
+        <li>Pension = (100,000 + 25,000) × (30/30) = ₹1,25,000 per month</li>
+      </ul>
+      
+      <h2>Additional Retirement Benefits</h2>
+      
+      <h3>Gratuity</h3>
+      <p>One-time payment on retirement calculated as: Last drawn basic salary × Service years / 16 (or 15)</p>
+      
+      <h3>Family Pension</h3>
+      <p>After your death, 50% of your pension goes to your spouse, and other percentages to dependent children.</p>
+      
+      <h3>Health Insurance</h3>
+      <p>Government employees and retirees get health insurance coverage through CGHS or ESI schemes.</p>
+      
+      <h2>Maximizing Retirement Benefits: Strategic Planning</h2>
+      
+      <h3>Strategy 1: Optimize Service Period</h3>
+      <p>Each additional year of service increases your pension. Consider extending service if it improves your pension significantly.</p>
+      
+      <h3>Strategy 2: Maximize GPF Contributions</h3>
+      <p>GPF earns interest and becomes a substantial fund by retirement. Contribute extra when possible to maximize returns.</p>
+      
+      <h3>Strategy 3: Plan for Post-Retirement Income</h3>
+      <ul>
+        <li>Create a realistic post-retirement budget</li>
+        <li>Plan for inflation - expenses will increase over time</li>
+        <li>Consider part-time work or consulting after retirement</li>
+        <li>Explore passive income sources</li>
+      </ul>
+      
+      <h2>Tax Implications on Retirement Income</h2>
+      
+      <h3>Pension Income</h3>
+      <p>Pension is taxable income but eligible for deductions under Section 80CCD.</p>
+      
+      <h3>GPF Withdrawal</h3>
+      <p>GPF is partially tax-free (withdrawal up to specific limits is tax-free).</p>
+      
+      <h3>Tax-Saving Investments</h3>
+      <p>After retirement, invest in tax-saving instruments like NPS Tier-I, NRLM bonds, and fixed deposits.</p>
+      
+      <h2>Healthcare Planning for Retirees</h2>
+      <ul>
+        <li>Enroll in CGHS or ESI scheme while employed</li>
+        <li>Consider supplementary health insurance</li>
+        <li>Budget for increasing healthcare needs</li>
+        <li>Understand coverage limits and exclusions</li>
+      </ul>
+      
+      <h2>Inflation and Retirement Planning</h2>
+      <p>Plan for inflation. If inflation is 6%, your ₹1 lakh today will have the purchasing power of ₹77,000 in 10 years. Budget accordingly.</p>
+      
+      <h2>Creating a Retirement Action Plan</h2>
+      
+      <h3>5 Years Before Retirement:</h3>
+      <ul>
+        <li>Calculate expected pension and benefits</li>
+        <li>Plan post-retirement lifestyle and budget</li>
+        <li>Maximize final-year savings</li>
+      </ul>
+      
+      <h3>At Retirement:</h3>
+      <ul>
+        <li>Complete all benefit documentation</li>
+        <li>Set up pension distribution account</li>
+        <li>Begin drawing benefits</li>
+      </ul>
+      
+      <h3>After Retirement:</h3>
+      <ul>
+        <li>Monitor investments and inflation</li>
+        <li>Plan for healthcare needs</li>
+        <li>Consider estate planning and will</li>
+      </ul>
+    `,
+  },
+  9: {
+    title: "Investment for Beginners: 10 Mistakes to Avoid",
+    author: "Investment Coach",
+    date: "January 4, 2024",
+    readTime: "6 min read",
+    category: "Investments",
+    image: "/investment-mistakes.jpg",
+    content: `
+      <h2>Investing With Confidence: Avoid These 10 Common Mistakes</h2>
+      <p>New investors often make costly mistakes. Learning from others' errors can save you thousands of rupees and help you build wealth faster.</p>
+      
+      <h2>Mistake 1: Investing Without Clear Goals</h2>
+      <p>Define your investment goals: retirement, home purchase, education, vacation. Different goals require different investment strategies.</p>
+      
+      <h2>Mistake 2: Ignoring Risk Tolerance</h2>
+      <p>Don't invest in high-risk stocks if you can't sleep at night. Your risk tolerance should match your financial situation and personality.</p>
+      
+      <h2>Mistake 3: Putting All Eggs in One Basket</h2>
+      <p>Diversification is key. Spread investments across different asset classes: stocks, bonds, real estate, and cash.</p>
+      
+      <h2>Mistake 4: Timing the Market</h2>
+      <p>No one can predict market peaks and troughs. Regular investments through SIP reduce timing risk and average cost.</p>
+      
+      <h2>Mistake 5: Panic Selling During Market Crashes</h2>
+      <p>Market downturns are normal. Panic selling locks in losses. Stay disciplined and continue investing during downturns.</p>
+      
+      <h2>Mistake 6: Chasing High Returns</h2>
+      <p>High returns come with high risk. Avoid schemes promising unrealistic returns. They're usually scams or frauds.</p>
+      
+      <h2>Mistake 7: Not Understanding Your Investment</h2>
+      <p>Never invest in something you don't understand. If you can't explain it simply, don't invest in it.</p>
+      
+      <h2>Mistake 8: Paying Excessive Fees</h2>
+      <p>High fees eat into returns. Compare expense ratios across mutual funds. Even 1-2% difference compounds significantly over time.</p>
+      
+      <h2>Mistake 9: Investing With Borrowed Money</h2>
+      <p>Never invest with debt or borrowed money. This increases risk and can lead to significant losses you can't afford.</p>
+      
+      <h2>Mistake 10: Neglecting Tax Planning</h2>
+      <p>Invest in tax-efficient instruments like ELSS, NPS, and tax-free bonds. Save taxes while building wealth.</p>
+      
+      <h2>Asset Allocation Strategy for Beginners</h2>
+      
+      <h3>Age-Based Allocation:</h3>
+      <ul>
+        <li><strong>Age 20-30:</strong> 80% stocks, 20% bonds</li>
+        <li><strong>Age 30-40:</strong> 70% stocks, 30% bonds</li>
+        <li><strong>Age 40-50:</strong> 60% stocks, 40% bonds</li>
+        <li><strong>Age 50+:</strong> 50% stocks, 50% bonds</li>
+      </ul>
+      
+      <h2>Recommended Investment Vehicles for Beginners</h2>
+      
+      <h3>1. Mutual Funds</h3>
+      <p>Professional management, diversification, and flexibility for beginners.</p>
+      
+      <h3>2. Index Funds</h3>
+      <p>Low-cost, diversified investment tracking market indices.</p>
+      
+      <h3>3. Debt Funds</h3>
+      <p>Lower risk, stable returns for conservative investors.</p>
+      
+      <h3>4. Fixed Deposits</h3>
+      <p>Guaranteed returns, zero risk, but lower growth potential.</p>
+      
+      <h2>Starting Your Investment Journey</h2>
+      
+      <h3>Step 1: Build Emergency Fund First</h3>
+      <p>Have 3-6 months of expenses saved before investing.</p>
+      
+      <h3>Step 2: Pay Off High-Interest Debt</h3>
+      <p>Eliminate credit card debt before investing.</p>
+      
+      <h3>Step 3: Start Small With SIP</h3>
+      <p>Begin with ₹500-1000 monthly SIP in index funds.</p>
+      
+      <h3>Step 4: Gradually Increase Investments</h3>
+      <p>As income grows, increase investment amounts.</p>
+      
+      <h3>Step 5: Review and Rebalance</h3>
+      <p>Quarterly review portfolio and rebalance to maintain asset allocation.</p>
+      
+      <h2>Common Myths About Stock Market Investing</h2>
+      
+      <p><strong>Myth 1:</strong> "Stock market is gambling" - FALSE. Disciplined investing based on fundamentals is wealth creation.</p>
+      <p><strong>Myth 2:</strong> "I need lots of money to start" - FALSE. Start with ₹500 through SIP.</p>
+      <p><strong>Myth 3:</strong> "Rich people are lucky" - FALSE. Wealth comes from consistent investing and compounding.</p>
+    `,
+  },
+  10: {
+    title: "Tax Deductions and Exemptions Every Indian Should Know",
+    author: "Tax Consultant",
+    date: "January 1, 2024",
+    readTime: "8 min read",
+    category: "Tax Planning",
+    image: "/tax-deductions.jpg",
+    content: `
+      <h2>Understanding Tax Deductions and Exemptions</h2>
+      <p>Tax deductions reduce your taxable income, while exemptions exclude certain income from taxation entirely. Knowing these can save you thousands in taxes.</p>
+      
+      <h2>Major Tax Exemptions in India</h2>
+      
+      <h3>House Rent Allowance (HRA) Exemption</h3>
+      <p>If you're paying rent, you can exempt HRA from income tax. Exempt amount is the least of: HRA received, 50% of salary (metro)/40% (non-metro), or actual rent paid minus 10% of salary.</p>
+      
+      <h3>Leave Travel Allowance (LTA) Exemption</h3>
+      <p>Tax-free travel allowance for approved travel. Typically ₹50,000-100,000 per annum depending on employment terms.</p>
+      
+      <h3>Standard Deduction</h3>
+      <p>Fixed deduction for salaried individuals. Currently ₹50,000 from gross salary for individuals earning any amount.</p>
+      
+      <h2>Popular Tax Deductions Under Chapter VI-A</h2>
+      
+      <h3>Section 80C - Investment Deduction</h3>
+      <ul>
+        <li>Life Insurance Premiums - Max ₹1.5 lakhs</li>
+        <li>Public Provident Fund (PPF) - Max ₹1.5 lakhs</li>
+        <li>Equity Linked Saving Scheme (ELSS) - Max ₹1.5 lakhs</li>
+        <li>Education Fees - Unlimited deduction</li>
+      </ul>
+      
+      <h3>Section 80D - Medical Insurance Premium</h3>
+      <ul>
+        <li>Self and family: ₹25,000 per annum</li>
+        <li>Senior citizens: ₹50,000 per annum</li>
+        <li>For parents: ₹25,000 (₹50,000 if senior citizen)</li>
+      </ul>
+      
+      <h3>Section 80E - Education Loan Interest</h3>
+      <p>Interest on education loans without any limit deduction for higher education.</p>
+      
+      <h3>Section 80CCD - National Pension System (NPS)</h3>
+      <ul>
+        <li>Employee contribution: ₹1.5 lakhs (under 80C)</li>
+        <li>Additional: ₹50,000 additional deduction</li>
+        <li>Total: ₹2 lakhs deduction available</li>
+      </ul>
+      
+      <h3>Section 80G - Charitable Donations</h3>
+      <p>Donations to approved charities. Deduction: 50% or 100% of donation depending on organization type.</p>
+      
+      <h2>Tax Planning Strategy For Salaried Employees</h2>
+      
+      <h3>Annual Tax Savings Checklist:</h3>
+      <ul>
+        <li>Claim HRA exemption if applicable</li>
+        <li>Invest in 80C instruments - minimum ₹1.5 lakhs</li>
+        <li>Buy health insurance for 80D deduction</li>
+        <li>Use NPS for additional ₹50,000 deduction</li>
+        <li>Donate to charity for 80G deduction</li>
+      </ul>
+      
+      <h2>Tax Savings Example</h2>
+      
+      <h3>Annual Income: ₹10 lakhs</h3>
+      
+      <p><strong>Without Tax Planning:</strong></p>
+      <ul>
+        <li>Taxable Income: ₹10 lakhs (with standard deduction: ₹9.5 lakhs)</li>
+        <li>Tax at 30% slab: ₹2.85 lakhs</li>
+      </ul>
+      
+      <p><strong>With Tax Planning:</strong></p>
+      <ul>
+        <li>PPF Investment (80C): ₹1.5 lakhs</li>
+        <li>Health Insurance (80D): ₹25,000</li>
+        <li>NPS Investment (80CCD): ₹50,000</li>
+        <li>Total Deductions: ₹2.25 lakhs</li>
+        <li>Taxable Income: ₹7.25 lakhs (with standard deduction)</li>
+        <li>Tax at 30% slab: ₹2.175 lakhs</li>
+        <li><strong>Tax Savings: ₹67,500 annually</strong></li>
+      </ul>
+      
+      <h2>New Tax Regime Vs Old Tax Regime</h2>
+      
+      <p>India offers two tax regimes. Compare both and choose the one giving lower tax:</p>
+      
+      <h3>Old Regime (With Deductions):</h3>
+      <ul>
+        <li>Multiple deductions available</li>
+        <li>Better for high earners with investments</li>
+        <li>Requires filing tax returns for many</li>
+      </ul>
+      
+      <h3>New Regime (Without Deductions):</h3>
+      <ul>
+        <li>Lower tax rates but no deductions</li>
+        <li>Simpler tax filing</li>
+        <li>Better for those without major investments</li>
+      </ul>
+      
+      <h2>Tax-Saving Investments</h2>
+      
+      <p><strong>High Priority:</strong></p>
+      <ul>
+        <li>ELSS Funds - Returns + Tax saving</li>
+        <li>PPF - Guaranteed returns + Tax-free</li>
+        <li>NPS - High returns + Tax deduction</li>
+      </ul>
+      
+      <p><strong>Good Options:</strong></p>
+      <ul>
+        <li>Fixed Deposits - Safe returns</li>
+        <li>Bonds - Steady income</li>
+        <li>Life Insurance - Protection + Savings</li>
+      </ul>
+      
+      <h2>Common Tax Filing Mistakes to Avoid</h2>
+      
+      <ul>
+        <li>Not filing returns on time</li>
+        <li>Claiming incorrect HRA exemption</li>
+        <li>Missing investment receipts</li>
+        <li>Not reporting all income sources</li>
+        <li>Overestimating deductions</li>
+      </ul>
+    `,
+  },
 }
 
 export default function BlogPostPage({ params }: { params: { id: string } }) {

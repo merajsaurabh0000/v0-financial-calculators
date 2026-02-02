@@ -71,6 +71,50 @@ export default function BlogsClient() {
       readTime: "5 min read",
       image: "/money-saving.jpg",
     },
+    {
+      id: 7,
+      title: "Building Your Emergency Fund: A Step-by-Step Guide",
+      excerpt:
+        "Learn how to create an emergency fund that protects you from financial crises. Understand how much you need to save and where to keep your money.",
+      author: "Financial Advisor",
+      date: "Jan 8, 2024",
+      category: "Savings",
+      readTime: "7 min read",
+      image: "/emergency-fund.jpg",
+    },
+    {
+      id: 8,
+      title: "Retirement Planning for Government Employees: Maximize Your Benefits",
+      excerpt:
+        "Comprehensive guide to retirement planning under 8th Pay Commission. Learn about pension schemes, investment options, and strategies to build a secure retirement.",
+      author: "Pension Expert",
+      date: "Jan 6, 2024",
+      category: "Retirement",
+      readTime: "8 min read",
+      image: "/retirement-planning.jpg",
+    },
+    {
+      id: 9,
+      title: "Investment for Beginners: 10 Mistakes to Avoid",
+      excerpt:
+        "Common investment mistakes and how to avoid them. Learn about diversification, asset allocation, and smart investing practices for wealth creation.",
+      author: "Investment Coach",
+      date: "Jan 4, 2024",
+      category: "Investments",
+      readTime: "6 min read",
+      image: "/investment-mistakes.jpg",
+    },
+    {
+      id: 10,
+      title: "Tax Deductions and Exemptions Every Indian Should Know",
+      excerpt:
+        "Explore tax saving opportunities under different sections of the Income Tax Act. Understand how to reduce your tax liability legally and save more money.",
+      author: "Tax Consultant",
+      date: "Jan 1, 2024",
+      category: "Tax Planning",
+      readTime: "8 min read",
+      image: "/tax-deductions.jpg",
+    },
   ]
 
   return (
