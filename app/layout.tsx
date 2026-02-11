@@ -49,24 +49,73 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode
-}>) {
+}) {
+  const schemaOrgData = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "FynanceCalc",
+    description: "Free online financial calculators and planning tools",
+    url: "https://fynancecalc.com",
+    image: "https://fynancecalc.com/placeholder-logo.png",
+    sameAs: [
+      "https://www.facebook.com/fynancecalc",
+      "https://www.twitter.com/fynancecalc",
+    ],
+    potentialAction: {
+      "@type": "SearchAction",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: "https://fynancecalc.com/search?q={search_term_string}",
+      },
+      "query-input": "required name=search_term_string",
+    },
+  }
+
+  const organizationSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "FynanceCalc",
+    alternateName: "Fynance Calc",
+    url: "https://fynancecalc.com",
+    logo: "https://fynancecalc.com/placeholder-logo.png",
+    description: "Free online financial calculators for GST, EMI, SIP, salary, and insurance",
+    sameAs: [
+      "https://www.facebook.com/fynancecalc",
+      "https://www.twitter.com/fynancecalc",
+    ],
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "Customer Service",
+      url: "https://fynancecalc.com",
+    },
+  }
+
   return (
     <html lang="en">
       <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="google-adsense-account" content="ca-pub-6750572764171645" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6750572764171645"
           crossOrigin="anonymous"
-        ></script>
+        />
+        {/* Schema.org markup */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(schemaOrgData),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema),
+          }}
+        />
       </head>
-      <body className={`font-sans antialiased`}>
-        {children}
-        <Analytics />
-      </body>
+      <body>{children}</body>
     </html>
   )
 }

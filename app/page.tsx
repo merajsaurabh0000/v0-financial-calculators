@@ -257,6 +257,91 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Financial Education Center */}
+      <section className="px-6 py-20 max-w-6xl mx-auto">
+        <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Financial Education Center</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="bg-card border border-border rounded-lg p-8">
+            <h3 className="text-xl font-bold text-card-foreground mb-4">Understanding Financial Calculations</h3>
+            <p className="text-muted-foreground mb-4">
+              Financial calculations are essential tools for making smart financial decisions. Whether you're calculating taxes, planning investments, or managing loans, understanding the math behind these calculations helps you take control of your finances.
+            </p>
+            <ul className="space-y-2 text-sm text-muted-foreground">
+              <li>✓ Learn about tax calculations and savings strategies</li>
+              <li>✓ Understand loan EMI and interest calculations</li>
+              <li>✓ Master investment and compound interest formulas</li>
+              <li>✓ Explore health insurance premium calculations</li>
+            </ul>
+          </div>
+
+          <div className="bg-card border border-border rounded-lg p-8">
+            <h3 className="text-xl font-bold text-card-foreground mb-4">Financial Planning Tips</h3>
+            <p className="text-muted-foreground mb-4">
+              Smart financial planning involves understanding your current financial situation, setting clear goals, and using the right tools to achieve them. Our calculators and guides help you at every step of your financial journey.
+            </p>
+            <ul className="space-y-2 text-sm text-muted-foreground">
+              <li>✓ Create budgets and track your spending</li>
+              <li>✓ Plan for taxes and maximize deductions</li>
+              <li>✓ Compare loan options and choose wisely</li>
+              <li>✓ Invest for long-term wealth creation</li>
+            </ul>
+          </div>
+
+          <div className="bg-card border border-border rounded-lg p-8">
+            <h3 className="text-xl font-bold text-card-foreground mb-4">How Our Calculators Work</h3>
+            <p className="text-muted-foreground mb-4">
+              Each FynanceCalc calculator uses industry-standard formulas and current financial regulations to provide accurate results. All calculations are performed on your device with no data collection or storage.
+            </p>
+            <ul className="space-y-2 text-sm text-muted-foreground">
+              <li>✓ Real-time calculation with instant results</li>
+              <li>✓ Detailed breakdowns of all components</li>
+              <li>✓ Adjustment options for different scenarios</li>
+              <li>✓ Educational notes explaining each calculation</li>
+            </ul>
+          </div>
+
+          <div className="bg-card border border-border rounded-lg p-8">
+            <h3 className="text-xl font-bold text-card-foreground mb-4">Financial Decision Making</h3>
+            <p className="text-muted-foreground mb-4">
+              Using calculators as part of your financial planning process helps you make data-driven decisions. Compare different scenarios, understand the impact of your choices, and plan confidently for your financial future.
+            </p>
+            <ul className="space-y-2 text-sm text-muted-foreground">
+              <li>✓ Evaluate different loan options</li>
+              <li>✓ Compare investment strategies</li>
+              <li>✓ Optimize tax planning strategies</li>
+              <li>✓ Plan insurance coverage needs</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Key Financial Concepts */}
+      <section className="px-6 py-16 bg-secondary">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Key Financial Concepts Explained</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div>
+              <h3 className="text-lg font-bold text-foreground mb-3">Compound Interest</h3>
+              <p className="text-muted-foreground text-sm">
+                The interest earned on interest. The longer your money stays invested, the more it grows. This is the principle behind successful long-term investing and why starting early matters.
+              </p>
+            </div>
+            <div>
+              <h3 className="text-lg font-bold text-foreground mb-3">Tax Efficiency</h3>
+              <p className="text-muted-foreground text-sm">
+                Smart tax planning reduces your tax burden legally. By using available deductions and investment options, you can keep more of what you earn and accelerate wealth creation.
+              </p>
+            </div>
+            <div>
+              <h3 className="text-lg font-bold text-foreground mb-3">Asset Allocation</h3>
+              <p className="text-muted-foreground text-sm">
+                Diversifying your investments across different asset classes reduces risk and optimizes returns. The right allocation depends on your age, goals, and risk tolerance.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="border-t border-border px-6 py-12 bg-secondary">
         <div className="max-w-6xl mx-auto">
