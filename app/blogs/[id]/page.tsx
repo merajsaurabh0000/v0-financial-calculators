@@ -3,6 +3,7 @@
 import Link from "next/link"
 import { ChevronLeft, Calendar, User, Clock, Share2 } from "lucide-react"
 import { useState } from "react"
+import { AdUnit } from "@/components/ad-unit"
 
 const blogPosts = {
   1: {
@@ -942,6 +943,11 @@ export default function BlogPostPage({ params }: { params: { id: string } }) {
             }
           `}</style>
           <div dangerouslySetInnerHTML={{ __html: post.content }} />
+        </div>
+
+        {/* Ad Unit - Placed after article content on content-heavy section */}
+        <div className="my-8">
+          <AdUnit slot="1234567890" format="auto" responsive />
         </div>
 
         {/* Call to Action */}
